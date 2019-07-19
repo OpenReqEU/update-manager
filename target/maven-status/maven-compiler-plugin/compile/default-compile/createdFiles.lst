@@ -1,0 +1,13 @@
+it\eng\openreq\updatemanager\registration\ExecutablePolicy.class
+it\eng\openreq\updatemanager\registration\Policy.class
+it\eng\openreq\updatemanager\management\Management.class
+it\eng\openreq\updatemanager\registration\RegistrationRest.class
+it\eng\openreq\updatemanager\registration\Registration.class
+it\eng\openreq\updatemanager\registration\ExecutablePolicy$1.class
+it\eng\openreq\updatemanager\registration\PolicyDAO.class
+it\eng\openreq\updatemanager\registration\VerifyRule.class
+it\eng\openreq\updatemanager\registration\PolicyJSON.class
+it\eng\openreq\updatemanager\registration\Rule.class
+it\eng\openreq\updatemanager\SwaggerConfig.class
+it\eng\openreq\updatemanager\Application.class
+it\eng\openreq\updatemanager\management\TrainingResponse.class
